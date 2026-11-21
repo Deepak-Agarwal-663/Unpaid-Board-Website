@@ -1,0 +1,6 @@
+{
+  "name": "MoneyBack Board",
+  "description": "Every unpaid order, back on your board. One short form that flags big unpaid orders the same day, and one board that shows the money still owed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
